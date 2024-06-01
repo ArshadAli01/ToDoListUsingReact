@@ -1,5 +1,3 @@
-Sure, here's a comprehensive `README.md` file for your To-Do List project:
-
 markdown
 # React To-Do List
 
