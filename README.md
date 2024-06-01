@@ -1,22 +1,22 @@
 Sure, here's a comprehensive `README.md` file for your To-Do List project:
 
-```markdown
+markdown
 # React To-Do List
 
 A simple and visually appealing To-Do List application built with React. This application allows users to add, edit, delete, and filter tasks, and also supports marking tasks as completed. Tasks are persisted using local storage, so they remain between page reloads.
 
 ## Features
 
-- **Add Task**: Users can add new tasks to the list.
-- **Edit Task**: Users can edit the title of an existing task.
-- **Delete Task**: Users can delete a task from the list.
-- **Mark Task as Completed**: Users can mark tasks as completed.
-- **Complete All Tasks**: Users can mark all tasks as completed.
-- **Delete Completed Tasks**: Users can delete all completed tasks.
-- **Filter Tasks**: Users can filter tasks based on their completion status.
-- **Task Count**: The total number of tasks and the number of completed tasks are displayed.
-- **Local Storage Integration**: Tasks are saved to local storage to persist between page reloads.
-- **Input Validation**: Ensures that the input is not empty before adding a task.
+- Add Task: Users can add new tasks to the list.
+- Edit Task: Users can edit the title of an existing task.
+- Delete Task: Users can delete a task from the list.
+- Mark Task as Completed: Users can mark tasks as completed.
+- Complete All Tasks: Users can mark all tasks as completed.
+- Delete Completed Tasks: Users can delete all completed tasks.
+- Filter Tasks: Users can filter tasks based on their completion status.
+- Task Count: The total number of tasks and the number of completed tasks are displayed.
+- Local Storage Integration: Tasks are saved to local storage to persist between page reloads.
+- Input Validation: Ensures that the input is not empty before adding a task.
 
 ## Installation
 
